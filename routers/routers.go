@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ouqiang/delay-queue/delayqueue"
+	"delay-queue/delayqueue"
 )
 
 // TopicRequest Job类型请求json
